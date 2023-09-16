@@ -1,0 +1,9 @@
+com\inerBanking\pageObjects\LoginPage.class
+com\inerBanking\utilities\Reporting.class
+com\inerBanking\testCases\LoginPageTest.class
+com\inerBanking\testCases\AddCustomerPageTest.class
+com\inerBanking\utilities\XLUtils.class
+com\inerBanking\pageObjects\AddCustomerPage.class
+com\inerBanking\testCases\DDTLoginPageTest.class
+com\inerBanking\testCases\BaseClass.class
+com\inerBanking\utilities\ReadConfig.class
